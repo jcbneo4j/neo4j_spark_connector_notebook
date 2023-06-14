@@ -1,7 +1,7 @@
 # Neo4j Spark Connector Notebook
 
 This project comprises example code showing usage of the Neo4j Spark Connector. It includes:
-- Reading data from a parquet file
+- Reading sample data from a parquet file
 - Creating two nodes
 - Creating a relationship between those nodes
 
